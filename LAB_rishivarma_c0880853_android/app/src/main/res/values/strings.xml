@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">lab_rishivarma_c0880853_android</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="MAPS_API_KEY">AIzaSyAjd3o_VuimtLqNlDm8AfmsNTxit8L7AyU</string>
 </resources>
